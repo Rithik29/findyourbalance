@@ -1,0 +1,98 @@
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  width: 2318px;
+  height: 1021px;
+}
+.about-us1 {
+  position: absolute;
+  top: 159px;
+  left: 922px;
+  line-height: 28px;
+  font-weight: 500;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 1502px;
+  border-radius: var(--br-xl) 0 var(--br-xl) 0;
+  border: 2px solid var(--color-tan-200);
+  box-sizing: border-box;
+  width: 300px;
+  height: 300px;
+}
+.rithik-kumar {
+  position: absolute;
+  top: 358px;
+  left: 48px;
+  line-height: 28px;
+}
+.aakriti-sharma {
+  top: 356px;
+}
+.aakriti-sharma,
+.aparna-jha,
+.vineet-singroha {
+  position: absolute;
+  line-height: 28px;
+}
+.vineet-singroha {
+  top: 356px;
+  left: 522px;
+}
+.aakriti-sharma {
+  left: 1033px;
+}
+.aparna-jha {
+  top: 354px;
+  left: 1565px;
+}
+.group-child1,
+.group-inner,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-xl) 0 var(--br-xl) 0;
+  border: 2px solid var(--color-tan-200);
+  box-sizing: border-box;
+  width: 300px;
+  height: 300px;
+}
+.group-inner {
+  left: 1002px;
+}
+.rectangle-div {
+  left: 0;
+}
+.group-child1 {
+  left: 501px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 286px;
+  left: 168px;
+  width: 1802px;
+  height: 386px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-open-sans);
+}
+.about-us,
+.rectangle-parent {
+  position: absolute;
+  left: 0;
+  width: 2318px;
+  height: 1021px;
+}
+.rectangle-parent {
+  top: 0;
+}
+.about-us {
+  top: 4251px;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-poppins);
+}
